@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "0.4",
-  "apkUrl": "https://github.com/MichaelKitticai/mifugo-prototype-release/releases/download/v0.4/mifugo-prototype-0.4.apk",
-  "notes": "What's new in 0.4:\n- New orange app icon, so it's easy to tell apart from the real Mifugo Wallet\n- Fixed: rounded buttons and cards showed white gaps at their corners",
+  "versionCode": 5,
+  "versionName": "0.5",
+  "apkUrl": "https://github.com/MichaelKitticai/mifugo-prototype-release/releases/download/v0.5/mifugo-prototype-0.5.apk",
+  "notes": "What's new in 0.5:\n- Create form works end to end: edit every question, change its type, add options, set required\n- Question menu: rules (show only if...), duplicate, move up or down, delete\n- Preview runs the form you built, one question at a time, with your rules applied\n- Home: survey counts on the tabs are orange",
   "minSupportedVersionCode": 0
 }
