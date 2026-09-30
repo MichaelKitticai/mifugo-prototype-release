@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "0.3",
-  "apkUrl": "https://github.com/MichaelKitticai/mifugo-prototype-release/releases/download/v0.3/mifugo-prototype-0.3.apk",
-  "notes": "What's new in 0.3:\n- Smooth animations: sheets slide up and down, screens fade in, questions slide as you move\n- Home: Available, Saved and Templates tabs switch with an animation; Saved shows surveys on this phone\n- Settings: edit your name, email and phone (email and phone need a 6-digit code)\n- Create form: each answer type opens its own pop-up; Add new question works; version is set automatically\n- Selected boxes now show green instead of orange",
+  "versionCode": 4,
+  "versionName": "0.4",
+  "apkUrl": "https://github.com/MichaelKitticai/mifugo-prototype-release/releases/download/v0.4/mifugo-prototype-0.4.apk",
+  "notes": "What's new in 0.4:\n- New orange app icon, so it's easy to tell apart from the real Mifugo Wallet\n- Fixed: rounded buttons and cards showed white gaps at their corners",
   "minSupportedVersionCode": 0
 }
