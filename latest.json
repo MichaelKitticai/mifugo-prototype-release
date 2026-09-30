@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "0.2",
-  "apkUrl": "https://github.com/MichaelKitticai/mifugo-prototype-release/releases/download/v0.2/mifugo-prototype-0.2.apk",
-  "notes": "First test build of the Mifugo Wallet redesign.\n- Fill the 4 real surveys (Household, Livestock health visit, Voucher redemption check, Onboarding)\n- Review page, Send form with the send timer, drafts, sent forms\n- Settings > Test app: quick 2-minute send timer, clear test data\nNothing is sent to the server. Installs next to the real Mifugo Wallet.",
+  "versionCode": 3,
+  "versionName": "0.3",
+  "apkUrl": "https://github.com/MichaelKitticai/mifugo-prototype-release/releases/download/v0.3/mifugo-prototype-0.3.apk",
+  "notes": "What's new in 0.3:\n- Smooth animations: sheets slide up and down, screens fade in, questions slide as you move\n- Home: Available, Saved and Templates tabs switch with an animation; Saved shows surveys on this phone\n- Settings: edit your name, email and phone (email and phone need a 6-digit code)\n- Create form: each answer type opens its own pop-up; Add new question works; version is set automatically\n- Selected boxes now show green instead of orange",
   "minSupportedVersionCode": 0
 }
