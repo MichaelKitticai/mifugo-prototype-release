@@ -1,0 +1,7 @@
+{
+  "versionCode": 2,
+  "versionName": "0.2",
+  "apkUrl": "https://github.com/MichaelKitticai/mifugo-prototype-release/releases/download/v0.2/mifugo-prototype-0.2.apk",
+  "notes": "First test build of the Mifugo Wallet redesign.\n- Fill the 4 real surveys (Household, Livestock health visit, Voucher redemption check, Onboarding)\n- Review page, Send form with the send timer, drafts, sent forms\n- Settings > Test app: quick 2-minute send timer, clear test data\nNothing is sent to the server. Installs next to the real Mifugo Wallet.",
+  "minSupportedVersionCode": 0
+}
