@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "0.6",
-  "apkUrl": "https://github.com/MichaelKitticai/mifugo-prototype-release/releases/download/v0.6/mifugo-prototype-0.6.apk",
-  "notes": "What's new in 0.6\n- Profile photo: take a photo, choose one, or remove it (Settings)\n- Responses: Online / On this phone tabs, with working downloads (red Download button)\n- Tab badges now show new, unseen items in orange and clear when you open the tab\n- Home: Import picks a real file (Excel, CSV, PDF, Word)\n- Review page shows the form version\n- Surveys: Your forms / Templates slider\n- Settings: tap App version to check for updates",
+  "versionCode": 7,
+  "versionName": "0.7",
+  "apkUrl": "https://github.com/MichaelKitticai/mifugo-prototype-release/releases/download/v0.7/mifugo-prototype-0.7.apk",
+  "notes": "What's new in 0.7\n- Menu: tap ☰ on Home for New forms, Available forms, Drafts, Pending, Sent forms, Create a survey, Your forms, Templates, Import and Imported reports\n- Offline banner: if the phone loses signal, an orange banner tells you to switch on data or Wi-Fi to send reports. Tap × to close it\n- Status pill under your name: orange when online, gray when offline\n- Profile picture on Home, in the menu and in Settings\n- New forms and templates show a \"New\" pill until you tap them; tab badges count what you haven't seen yet\n- Online forms show their publish date",
   "minSupportedVersionCode": 0
 }
