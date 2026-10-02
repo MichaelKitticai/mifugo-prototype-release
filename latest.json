@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "0.7",
-  "apkUrl": "https://github.com/MichaelKitticai/mifugo-prototype-release/releases/download/v0.7/mifugo-prototype-0.7.apk",
-  "notes": "What's new in 0.7\n- Menu: tap ☰ on Home for New forms, Available forms, Drafts, Pending, Sent forms, Create a survey, Your forms, Templates, Import and Imported reports\n- Offline banner: if the phone loses signal, an orange banner tells you to switch on data or Wi-Fi to send reports. Tap × to close it\n- Status pill under your name: orange when online, gray when offline\n- Profile picture on Home, in the menu and in Settings\n- New forms and templates show a \"New\" pill until you tap them; tab badges count what you haven't seen yet\n- Online forms show their publish date",
+  "versionCode": 8,
+  "versionName": "0.8",
+  "apkUrl": "https://github.com/MichaelKitticai/mifugo-prototype-release/releases/download/v0.8/mifugo-prototype-0.8.apk",
+  "notes": "What's new in 0.8\n- The Mifugo Wallet app icon now shows on the Welcome and Sign in screens\n- Create account: pick your role from a dropdown list\n- Reset password: choose Email or Phone number to get your code\n- Import takes spreadsheets only: XLSX, XLS, CSV, ODS or NUMBERS\n- New cards stay white with a small \"New\" label until you tap them\n- Small text fixes on Home and the verification code screen",
   "minSupportedVersionCode": 0
 }
