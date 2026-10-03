@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "0.8",
-  "apkUrl": "https://github.com/MichaelKitticai/mifugo-prototype-release/releases/download/v0.8/mifugo-prototype-0.8.apk",
-  "notes": "What's new in 0.8\n- The Mifugo Wallet app icon now shows on the Welcome and Sign in screens\n- Create account: pick your role from a dropdown list\n- Reset password: choose Email or Phone number to get your code\n- Import takes spreadsheets only: XLSX, XLS, CSV, ODS or NUMBERS\n- New cards stay white with a small \"New\" label until you tap them\n- Small text fixes on Home and the verification code screen",
+  "versionCode": 9,
+  "versionName": "0.9",
+  "apkUrl": "https://github.com/MichaelKitticai/mifugo-prototype-release/releases/download/v0.9/mifugo-prototype-0.9.apk",
+  "notes": "What's new in 0.9\n- Home: \"Sending soon\" and \"Drafts to finish\" only show when there's something in them. With nothing waiting, the box disappears\n- Sign in: the link at the bottom now reads \"Create account\"",
   "minSupportedVersionCode": 0
 }
