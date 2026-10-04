@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "0.9",
-  "apkUrl": "https://github.com/MichaelKitticai/mifugo-prototype-release/releases/download/v0.9/mifugo-prototype-0.9.apk",
-  "notes": "What's new in 0.9\n- Home: \"Sending soon\" and \"Drafts to finish\" only show when there's something in them. With nothing waiting, the box disappears\n- Sign in: the link at the bottom now reads \"Create account\"",
+  "versionCode": 10,
+  "versionName": "1.0",
+  "apkUrl": "https://github.com/MichaelKitticai/mifugo-prototype-release/releases/download/v1.0/mifugo-prototype-1.0.apk",
+  "notes": "What's new in 1.0: data quality and photo checks\n- Every survey now records when it was opened, finished (Send form) and sent, with GPS at start and finish. Nothing to do: it's automatic\n- Review shows a \"Data quality record\": time to complete, time and distance since the last survey, and any flags for a supervisor (short survey under 15 min, night start, not finished the same day, no start GPS, under 1 min between surveys, travel over 120 km/h)\n- Photo questions open the camera only. Gallery and old photos can't be attached\n- Each photo is stamped with GPS, time and household, and checked against the household's location: \"Verified photo\", or a flag if it was taken far away or without GPS\n- Try it: Household survey now asks for a photo of the homestead; Livestock health visit has an optional photo of the animal",
   "minSupportedVersionCode": 0
 }
