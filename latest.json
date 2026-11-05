@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "1.4",
-  "apkUrl": "https://github.com/MichaelKitticai/mifugo-prototype-release/releases/download/v1.4/mifugo-prototype-1.4.apk",
-  "notes": "Import now reads .xlsx, .xls, .csv and .json survey files, and the survey appears on your phone.\nUploads shows only real files. The sample cards are gone.\nNew test survey with every question type and the quality checks.\nThe Online badge is gone from Home.",
+  "versionCode": 15,
+  "versionName": "1.5",
+  "apkUrl": "https://github.com/MichaelKitticai/mifugo-prototype-release/releases/download/v1.5/mifugo-prototype-1.5.apk",
+  "notes": "Surveys now show consent and information screens.\nQuestions now appear or hide based on earlier answers, like the original app.\nThe test survey has a consent screen and a follow-up question.\nSurveys imported before this update need importing again to get these.",
   "minSupportedVersionCode": 0
 }
