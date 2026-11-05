@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "1.1",
-  "apkUrl": "https://github.com/MichaelKitticai/mifugo-prototype-release/releases/download/v1.1/mifugo-prototype-1.1.apk",
-  "notes": "New Home screen: tap a survey to open it. Available, Saved and Templates now sit inside each survey.\nDrafts to finish now shows a progress bar.\nPhone numbers start with +254.\nA prompt helps when GPS takes more than 5 seconds.\nDownloaded surveys stay in Online for 24 hours as a shortcut.",
+  "versionCode": 12,
+  "versionName": "1.2",
+  "apkUrl": "https://github.com/MichaelKitticai/mifugo-prototype-release/releases/download/v1.2/mifugo-prototype-1.2.apk",
+  "notes": "Drafts to finish: the progress bar and percentage are now orange.",
   "minSupportedVersionCode": 0
 }
