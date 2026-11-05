@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "1.2",
-  "apkUrl": "https://github.com/MichaelKitticai/mifugo-prototype-release/releases/download/v1.2/mifugo-prototype-1.2.apk",
-  "notes": "Drafts to finish: the progress bar and percentage are now orange.",
+  "versionCode": 13,
+  "versionName": "1.3",
+  "apkUrl": "https://github.com/MichaelKitticai/mifugo-prototype-release/releases/download/v1.3/mifugo-prototype-1.3.apk",
+  "notes": "New quality check: the Review screen flags 5 or more No answers in a row on Yes/No questions.",
   "minSupportedVersionCode": 0
 }
